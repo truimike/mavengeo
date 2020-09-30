@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Sep 16 10:01:21 CEST 2020
-https\://nexus.triopsys.net/repository/maven-public/.error=
-https\://nexus.triopsys.net/repository/maven-public/.lastUpdated=1600243281496
-http\://test-melvin.ndw.nu\:8081/nexus/content/groups/public/.lastUpdated=1596690492560
